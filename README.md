@@ -1,48 +1,49 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (SantaKaus(|Kaustubh Prabhakar)|https://kaustubhprabhakar.tech)"/>](https://kaustubhprabhakar.tech/)
+Copy Tweet
+[<𝚒𝚖𝚐 𝚜𝚛𝚌="𝚑𝚝𝚝𝚙𝚜://𝚛𝚊𝚠.𝚐𝚒𝚝𝚑𝚞𝚋𝚞𝚜𝚎𝚛𝚌𝚘𝚗𝚝𝚎𝚗𝚝.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚖𝚊𝚜𝚝𝚎𝚛/𝚒𝚗𝚝𝚛𝚘.𝚐𝚒𝚏" 𝚊𝚕𝚝="👋 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎! 𝙸'𝚖 (𝚁𝚊𝚢𝚖𝚘(𝟷𝟷𝟷|𝚗𝚍 𝙻𝚒)|𝚑𝚝𝚝𝚙𝚜://𝚛𝚊𝚢𝚖𝚘𝚗𝚍.𝚕𝚒)" 𝚝𝚒𝚝𝚕𝚎="👋 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎! 𝙸'𝚖 (𝚂𝚊𝚗𝚝𝚊𝙺𝚊𝚞𝚜(|𝙺𝚊𝚞𝚜𝚝𝚞𝚋𝚑 𝙿𝚛𝚊𝚋𝚑𝚊𝚔𝚊𝚛)|𝚑𝚝𝚝𝚙𝚜://𝚔𝚊𝚞𝚜𝚝𝚞𝚋𝚑𝚙𝚛𝚊𝚋𝚑𝚊𝚔𝚊𝚛.𝚝𝚎𝚌𝚑)"/>](𝚑𝚝𝚝𝚙𝚜://𝚔𝚊𝚞𝚜𝚝𝚞𝚋𝚑𝚙𝚛𝚊𝚋𝚑𝚊𝚔𝚊𝚛.𝚝𝚎𝚌𝚑/)
 
 <!--
-**SantaKaus/SantaKaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**𝚂𝚊𝚗𝚝𝚊𝙺𝚊𝚞𝚜/𝚂𝚊𝚗𝚝𝚊𝙺𝚊𝚞𝚜** 𝚒𝚜 𝚊 ✨ _𝚜𝚙𝚎𝚌𝚒𝚊𝚕_ ✨ 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 𝚋𝚎𝚌𝚊𝚞𝚜𝚎 𝚒𝚝𝚜 `𝚁𝙴𝙰𝙳𝙼𝙴.𝚖𝚍` (𝚝𝚑𝚒𝚜 𝚏𝚒𝚕𝚎) 𝚊𝚙𝚙𝚎𝚊𝚛𝚜 𝚘𝚗 𝚢𝚘𝚞𝚛 𝙶𝚒𝚝𝙷𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎.
 
-Here are some ideas to get you started:
+𝙷𝚎𝚛𝚎 𝚊𝚛𝚎 𝚜𝚘𝚖𝚎 𝚒𝚍𝚎𝚊𝚜 𝚝𝚘 𝚐𝚎𝚝 𝚢𝚘𝚞 𝚜𝚝𝚊𝚛𝚝𝚎𝚍:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 ...
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 ...
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 ...
+- 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 ...
+- 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 ...
+- 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: ...
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜: ...
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: ...
 -->
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## :𝚋𝚘𝚘𝚔: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚠𝚒𝚝𝚑 𝙲𝚘-𝚘𝚙 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚆𝚊𝚝𝚎𝚛𝚕𝚘𝚘, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸𝟻
-- (Check out my [website](https://kaustubhprabhakar.tech/) to learn more about me!)
+- (𝙲𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 𝚖𝚢 [𝚠𝚎𝚋𝚜𝚒𝚝𝚎](𝚑𝚝𝚝𝚙𝚜://𝚔𝚊𝚞𝚜𝚝𝚞𝚋𝚑𝚙𝚛𝚊𝚋𝚑𝚊𝚔𝚊𝚛.𝚝𝚎𝚌𝚑/) 𝚝𝚘 𝚕𝚎𝚊𝚛𝚗 𝚖𝚘𝚛𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎!)
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚝𝚒𝚘𝚗𝚜 𝚏𝚘𝚛 𝙳𝚛𝚁𝚊𝚌𝚔𝚎𝚝](https://cs135.ml).
-- 🎯 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘 𝚠𝚘𝚛𝚔 on 𝚘𝚗 a stock market technical analysis program and better my Machine Learning Movie Recommendation Algo 𝚒𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎.
+- 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚝𝚒𝚘𝚗𝚜 𝚏𝚘𝚛 𝙳𝚛𝚁𝚊𝚌𝚔𝚎𝚝](𝚑𝚝𝚝𝚙𝚜://𝚌𝚜𝟷𝟹𝟻.𝚖𝚕).
+- 🎯 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘 𝚠𝚘𝚛𝚔 𝚘𝚗 𝚘𝚗 𝚊 𝚜𝚝𝚘𝚌𝚔 𝚖𝚊𝚛𝚔𝚎𝚝 𝚝𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚊𝚗𝚊𝚕𝚢𝚜𝚒𝚜 𝚙𝚛𝚘𝚐𝚛𝚊𝚖 𝚊𝚗𝚍 𝚋𝚎𝚝𝚝𝚎𝚛 𝚖𝚢 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙼𝚘𝚟𝚒𝚎 𝚁𝚎𝚌𝚘𝚖𝚖𝚎𝚗𝚍𝚊𝚝𝚒𝚘𝚗 𝙰𝚕𝚐𝚘 𝚒𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎.
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Raymo111/cs135-drtools/pull/8) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
-2. 🗣 Commented on [#4](https://github.com/Raymo111/cs135-drtools/issues/4) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
-3. ❗️ Closed issue [#2](https://github.com/Raymo111/kahoot-answer-bot/issues/2) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-4. 🗣 Commented on [#2](https://github.com/Raymo111/kahoot-answer-bot/issues/2) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-5. 🗣 Commented on [#2](https://github.com/Raymo111/kahoot-answer-bot/issues/2) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-<!--END_SECTION:activity-->
+<!--𝚂𝚃𝙰𝚁𝚃_𝚂𝙴𝙲𝚃𝙸𝙾𝙽:𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢-->
+𝟷. 🎉 𝙼𝚎𝚛𝚐𝚎𝚍 𝙿𝚁 [#𝟾](𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚌𝚜𝟷𝟹𝟻-𝚍𝚛𝚝𝚘𝚘𝚕𝚜/𝚙𝚞𝚕𝚕/𝟾) 𝚒𝚗 [𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚌𝚜𝟷𝟹𝟻-𝚍𝚛𝚝𝚘𝚘𝚕𝚜](𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚌𝚜𝟷𝟹𝟻-𝚍𝚛𝚝𝚘𝚘𝚕𝚜)
+𝟸. 🗣 𝙲𝚘𝚖𝚖𝚎𝚗𝚝𝚎𝚍 𝚘𝚗 [#𝟺](𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚌𝚜𝟷𝟹𝟻-𝚍𝚛𝚝𝚘𝚘𝚕𝚜/𝚒𝚜𝚜𝚞𝚎𝚜/𝟺) 𝚒𝚗 [𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚌𝚜𝟷𝟹𝟻-𝚍𝚛𝚝𝚘𝚘𝚕𝚜](𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚌𝚜𝟷𝟹𝟻-𝚍𝚛𝚝𝚘𝚘𝚕𝚜)
+𝟹. ❗️ 𝙲𝚕𝚘𝚜𝚎𝚍 𝚒𝚜𝚜𝚞𝚎 [#𝟸](𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚔𝚊𝚑𝚘𝚘𝚝-𝚊𝚗𝚜𝚠𝚎𝚛-𝚋𝚘𝚝/𝚒𝚜𝚜𝚞𝚎𝚜/𝟸) 𝚒𝚗 [𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚔𝚊𝚑𝚘𝚘𝚝-𝚊𝚗𝚜𝚠𝚎𝚛-𝚋𝚘𝚝](𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚔𝚊𝚑𝚘𝚘𝚝-𝚊𝚗𝚜𝚠𝚎𝚛-𝚋𝚘𝚝)
+𝟺. 🗣 𝙲𝚘𝚖𝚖𝚎𝚗𝚝𝚎𝚍 𝚘𝚗 [#𝟸](𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚔𝚊𝚑𝚘𝚘𝚝-𝚊𝚗𝚜𝚠𝚎𝚛-𝚋𝚘𝚝/𝚒𝚜𝚜𝚞𝚎𝚜/𝟸) 𝚒𝚗 [𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚔𝚊𝚑𝚘𝚘𝚝-𝚊𝚗𝚜𝚠𝚎𝚛-𝚋𝚘𝚝](𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚔𝚊𝚑𝚘𝚘𝚝-𝚊𝚗𝚜𝚠𝚎𝚛-𝚋𝚘𝚝)
+𝟻. 🗣 𝙲𝚘𝚖𝚖𝚎𝚗𝚝𝚎𝚍 𝚘𝚗 [#𝟸](𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚔𝚊𝚑𝚘𝚘𝚝-𝚊𝚗𝚜𝚠𝚎𝚛-𝚋𝚘𝚝/𝚒𝚜𝚜𝚞𝚎𝚜/𝟸) 𝚒𝚗 [𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚔𝚊𝚑𝚘𝚘𝚝-𝚊𝚗𝚜𝚠𝚎𝚛-𝚋𝚘𝚝](𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚔𝚊𝚑𝚘𝚘𝚝-𝚊𝚗𝚜𝚠𝚎𝚛-𝚋𝚘𝚝)
+<!--𝙴𝙽𝙳_𝚂𝙴𝙲𝚃𝙸𝙾𝙽:𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢-->
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 or on anyone of the platforms linked below!
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚘𝚛 𝚘𝚗 𝚊𝚗𝚢𝚘𝚗𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖𝚜 𝚕𝚒𝚗𝚔𝚎𝚍 𝚋𝚎𝚕𝚘𝚠!
 
-[<img src="https://raw.githubusercontent.com/SantaKaus/SantaKaus/master/socials/linkedin.png" height="40em" align="center" alt="Connect with SantaKaus on LinkedIn" title="Connect with SantaKaus on LinkedIn"/>](https://www.linkedin.com/in/kaustubh-prabhakar/)
-[<img src="https://raw.githubusercontent.com/SantaKaus/SantaKaus/master/socials/instagram.svg" height="40em" align="center" alt="Follow SantaKaus on Instagram" title="Follow SantaKaus on Instagram"/>](https://www.instagram.com/santa_kaus/)
+[<𝚒𝚖𝚐 𝚜𝚛𝚌="𝚑𝚝𝚝𝚙𝚜://𝚛𝚊𝚠.𝚐𝚒𝚝𝚑𝚞𝚋𝚞𝚜𝚎𝚛𝚌𝚘𝚗𝚝𝚎𝚗𝚝.𝚌𝚘𝚖/𝚂𝚊𝚗𝚝𝚊𝙺𝚊𝚞𝚜/𝚂𝚊𝚗𝚝𝚊𝙺𝚊𝚞𝚜/𝚖𝚊𝚜𝚝𝚎𝚛/𝚜𝚘𝚌𝚒𝚊𝚕𝚜/𝚕𝚒𝚗𝚔𝚎𝚍𝚒𝚗.𝚙𝚗𝚐" 𝚑𝚎𝚒𝚐𝚑𝚝="𝟺0𝚎𝚖" 𝚊𝚕𝚒𝚐𝚗="𝚌𝚎𝚗𝚝𝚎𝚛" 𝚊𝚕𝚝="𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚂𝚊𝚗𝚝𝚊𝙺𝚊𝚞𝚜 𝚘𝚗 𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗" 𝚝𝚒𝚝𝚕𝚎="𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚂𝚊𝚗𝚝𝚊𝙺𝚊𝚞𝚜 𝚘𝚗 𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗"/>](𝚑𝚝𝚝𝚙𝚜://𝚠𝚠𝚠.𝚕𝚒𝚗𝚔𝚎𝚍𝚒𝚗.𝚌𝚘𝚖/𝚒𝚗/𝚔𝚊𝚞𝚜𝚝𝚞𝚋𝚑-𝚙𝚛𝚊𝚋𝚑𝚊𝚔𝚊𝚛/)
+[<𝚒𝚖𝚐 𝚜𝚛𝚌="𝚑𝚝𝚝𝚙𝚜://𝚛𝚊𝚠.𝚐𝚒𝚝𝚑𝚞𝚋𝚞𝚜𝚎𝚛𝚌𝚘𝚗𝚝𝚎𝚗𝚝.𝚌𝚘𝚖/𝚂𝚊𝚗𝚝𝚊𝙺𝚊𝚞𝚜/𝚂𝚊𝚗𝚝𝚊𝙺𝚊𝚞𝚜/𝚖𝚊𝚜𝚝𝚎𝚛/𝚜𝚘𝚌𝚒𝚊𝚕𝚜/𝚒𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖.𝚜𝚟𝚐" 𝚑𝚎𝚒𝚐𝚑𝚝="𝟺0𝚎𝚖" 𝚊𝚕𝚒𝚐𝚗="𝚌𝚎𝚗𝚝𝚎𝚛" 𝚊𝚕𝚝="𝙵𝚘𝚕𝚕𝚘𝚠 𝚂𝚊𝚗𝚝𝚊𝙺𝚊𝚞𝚜 𝚘𝚗 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖" 𝚝𝚒𝚝𝚕𝚎="𝙵𝚘𝚕𝚕𝚘𝚠 𝚂𝚊𝚗𝚝𝚊𝙺𝚊𝚞𝚜 𝚘𝚗 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖"/>](𝚑𝚝𝚝𝚙𝚜://𝚠𝚠𝚠.𝚒𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖.𝚌𝚘𝚖/𝚜𝚊𝚗𝚝𝚊_𝚔𝚊𝚞𝚜/)
 
 ## ⚡ 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
-- 𝚃𝚢𝚙𝚎𝙸𝚝, 𝚅𝚞𝚎 𝙿𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝙹𝚜 𝚊𝚗𝚍 𝚅𝚞𝚎.𝚓𝚜 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚝𝚢𝚙𝚒𝚗𝚐 𝚒𝚗𝚝𝚛𝚘: [𝚑𝚝𝚝𝚙𝚜://𝚌𝚘𝚍𝚎𝚜𝚊𝚗𝚍𝚋𝚘𝚡.𝚒𝚘/𝚜/𝚛𝚎𝚊𝚍𝚖𝚎-𝚒𝚗𝚝𝚛𝚘𝚐𝚒𝚏-𝟿𝚏𝚓𝚘𝟻](https://codesandbox.io/s/readme-introgif-9fjo5) <!-- Thanks to @matyo91's helpful comments in their profile README! -->
-- 𝙼𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎𝚍 𝚝𝚎𝚡𝚝 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚢𝚊𝚢𝚝𝚎𝚡𝚝.𝚌𝚘𝚖/𝚖𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎/](https://yaytext.com/monospace/)
-- 𝙶𝚒𝚝𝙷𝚞𝚋 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢 𝚊𝚌𝚝𝚒𝚘𝚗 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚓𝚊𝚖𝚎𝚜𝚐𝚎𝚘𝚛𝚐𝚎00𝟽/𝚐𝚒𝚝𝚑𝚞𝚋-𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢-𝚛𝚎𝚊𝚍𝚖𝚎](https://github.com/jamesgeorge007/github-activity-readme)
+- 𝚃𝚢𝚙𝚎𝙸𝚝, 𝚅𝚞𝚎 𝙿𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝙹𝚜 𝚊𝚗𝚍 𝚅𝚞𝚎.𝚓𝚜 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚝𝚢𝚙𝚒𝚗𝚐 𝚒𝚗𝚝𝚛𝚘: [𝚑𝚝𝚝𝚙𝚜://𝚌𝚘𝚍𝚎𝚜𝚊𝚗𝚍𝚋𝚘𝚡.𝚒𝚘/𝚜/𝚛𝚎𝚊𝚍𝚖𝚎-𝚒𝚗𝚝𝚛𝚘𝚐𝚒𝚏-𝟿𝚏𝚓𝚘𝟻](𝚑𝚝𝚝𝚙𝚜://𝚌𝚘𝚍𝚎𝚜𝚊𝚗𝚍𝚋𝚘𝚡.𝚒𝚘/𝚜/𝚛𝚎𝚊𝚍𝚖𝚎-𝚒𝚗𝚝𝚛𝚘𝚐𝚒𝚏-𝟿𝚏𝚓𝚘𝟻) <!-- 𝚃𝚑𝚊𝚗𝚔𝚜 𝚝𝚘 @𝚖𝚊𝚝𝚢𝚘𝟿𝟷'𝚜 𝚑𝚎𝚕𝚙𝚏𝚞𝚕 𝚌𝚘𝚖𝚖𝚎𝚗𝚝𝚜 𝚒𝚗 𝚝𝚑𝚎𝚒𝚛 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴! -->
+- 𝙼𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎𝚍 𝚝𝚎𝚡𝚝 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚢𝚊𝚢𝚝𝚎𝚡𝚝.𝚌𝚘𝚖/𝚖𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎/](𝚑𝚝𝚝𝚙𝚜://𝚢𝚊𝚢𝚝𝚎𝚡𝚝.𝚌𝚘𝚖/𝚖𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎/)
+- 𝙶𝚒𝚝𝙷𝚞𝚋 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢 𝚊𝚌𝚝𝚒𝚘𝚗 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚓𝚊𝚖𝚎𝚜𝚐𝚎𝚘𝚛𝚐𝚎00𝟽/𝚐𝚒𝚝𝚑𝚞𝚋-𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢-𝚛𝚎𝚊𝚍𝚖𝚎](𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚓𝚊𝚖𝚎𝚜𝚐𝚎𝚘𝚛𝚐𝚎00𝟽/𝚐𝚒𝚝𝚑𝚞𝚋-𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢-𝚛𝚎𝚊𝚍𝚖𝚎)
 <!--
-- 𝙻𝚊𝚝𝚎𝚜𝚝 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖 𝚙𝚘𝚜𝚝𝚜 𝚊𝚗𝚍 𝚠𝚎𝚊𝚝𝚑𝚎𝚛 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚝𝚑𝚖𝚜𝚐𝚋𝚛𝚝/𝚝𝚑𝚖𝚜𝚐𝚋𝚛𝚝](https://github.com/thmsgbrt/thmsgbrt)
+- 𝙻𝚊𝚝𝚎𝚜𝚝 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖 𝚙𝚘𝚜𝚝𝚜 𝚊𝚗𝚍 𝚠𝚎𝚊𝚝𝚑𝚎𝚛 𝚏𝚛𝚘𝚖 [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚝𝚑𝚖𝚜𝚐𝚋𝚛𝚝/𝚝𝚑𝚖𝚜𝚐𝚋𝚛𝚝](𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚝𝚑𝚖𝚜𝚐𝚋𝚛𝚝/𝚝𝚑𝚖𝚜𝚐𝚋𝚛𝚝)
 -->
