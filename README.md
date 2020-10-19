@@ -22,8 +22,8 @@
 - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚝𝚒𝚘𝚗𝚜 𝚏𝚘𝚛 𝙳𝚛𝚁𝚊𝚌𝚔𝚎𝚝](https://cs135.ml)
 - 🎯 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘 𝚠𝚘𝚛𝚔 𝚘𝚗 𝚘𝚗 𝚊 𝚜𝚝𝚘𝚌𝚔 𝚖𝚊𝚛𝚔𝚎𝚝 𝚝𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚊𝚗𝚊𝚕𝚢𝚜𝚒𝚜 𝚙𝚛𝚘𝚐𝚛𝚊𝚖 𝚊𝚗𝚍 𝚋𝚎𝚝𝚝𝚎𝚛 𝚖𝚢 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙼𝚘𝚟𝚒𝚎 𝚁𝚎𝚌𝚘𝚖𝚖𝚎𝚗𝚍𝚊𝚝𝚒𝚘𝚗 𝙰𝚕𝚐𝚘 𝚒𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎.
 
-## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
-<!--START_SECTION:activity-->
+<!--## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
+<!--START_SECTION:activity
 1. ❗️ Reopened issue [#184](https://github.com/Raymo111/i3lock-color/issues/184) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 2. 🗣 Commented on [#184](https://github.com/Raymo111/i3lock-color/issues/184) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 3. 🎉 Merged PR [#185](https://github.com/Raymo111/i3lock-color/pull/185) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
