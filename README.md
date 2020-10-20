@@ -24,7 +24,11 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-Activity goes here
+1. 🎉 Merged PR 
+2. ❗️ Reopened issue 
+3. 🗣 Commented on 
+4. 🎉 Merged PR 
+5. ❗️ Closed issue 
 <!--END_SECTION:activity-->
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
