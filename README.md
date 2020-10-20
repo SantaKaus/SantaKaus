@@ -24,9 +24,9 @@
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/Raymo111/cs135-drtools/pull/6) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
-2. 🗣 Commented on [#2](https://github.com/Raymo111/cs135-drtools/issues/2) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
-3. 💪 Opened PR [#5](https://github.com/Raymo111/cs135-drtools/pull/5) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
+1. ❗️ Opened issue [#1](https://github.com/SantaKaus/Machine-Learning-Movie-recommendation-Algorithm/issues/1) in [SantaKaus/Machine-Learning-Movie-recommendation-Algorithm](https://github.com/SantaKaus/Machine-Learning-Movie-recommendation-Algorithm)
+2. 💪 Opened PR [#6](https://github.com/Raymo111/cs135-drtools/pull/6) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
+3. 🗣 Commented on [#2](https://github.com/Raymo111/cs135-drtools/issues/2) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
 <!--END_SECTION:activity-->
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
