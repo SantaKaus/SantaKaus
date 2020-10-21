@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/SantaKaus/SantaKaus/master/intro.gif" alt="👋 Hey! I'm SantaKaus|https://kaustubhprabhakar.tech" title="👋 Hey! I'm SantaKaus|https://kaustubhprabhakar.tech"/>](https://kaustubhprabhakar.tech/)
+[<img src="https://raw.githubusercontent.com/SantaKaus/SantaKaus/master/intro1.gif" alt="👋 Hey! I'm SantaKaus|https://kaustubhprabhakar.tech" title="👋 Hey! I'm SantaKaus|https://kaustubhprabhakar.tech"/>](https://kaustubhprabhakar.tech/)
 
 <!--
 **𝚂𝚊𝚗𝚝𝚊𝙺𝚊𝚞𝚜/𝚂𝚊𝚗𝚝𝚊𝙺𝚊𝚞𝚜** 𝚒𝚜 𝚊 ✨ _𝚜𝚙𝚎𝚌𝚒𝚊𝚕_ ✨ 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 𝚋𝚎𝚌𝚊𝚞𝚜𝚎 𝚒𝚝𝚜 `𝚁𝙴𝙰𝙳𝙼𝙴.𝚖𝚍` (𝚝𝚑𝚒𝚜 𝚏𝚒𝚕𝚎) 𝚊𝚙𝚙𝚎𝚊𝚛𝚜 𝚘𝚗 𝚢𝚘𝚞𝚛 𝙶𝚒𝚝𝙷𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎.
